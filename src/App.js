@@ -3,6 +3,7 @@ import './resources/styles.css';
 
 import Header from './components/header_footer/Header'; 
 import Featured from './components/featured';
+import VenueNFO from './components/venueNFO';
 
 
 class App extends Component {
@@ -11,6 +12,7 @@ class App extends Component {
       <div className="App" style={{ height:"1500px", background:'red'}}>
         <Header /> 
         <Featured />
+        <VenueNFO />
       </div>
     );
   }
