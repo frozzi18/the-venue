@@ -71,3 +71,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 Notes CSS:
 - Display:flex
 - Display:inline-block
+- display: flex;
+- flex-wrap: wrap;
